@@ -1,0 +1,11 @@
+.tabla{
+    width: 25%;
+    border: 1px solid blue;
+}
+th{
+    font-size: 36px;
+}
+
+td{
+    border: 1px solid lightblue;
+}
